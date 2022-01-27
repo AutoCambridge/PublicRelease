@@ -15,26 +15,21 @@
 
 更新內容:
 ---
-<br>
+- v2.0.0-beta:
+    1. 更新了UI的介面
+    2. 新增Setting頁面
+    3. 可以選擇英-中或者英-英
+    4. 可以設定視窗大小
+    5. 可以設定字體大小
+    6. 可以設定例句間距
+    7. 可以自動開機啟動
+    8. 可以開啟app即啟動
+    9. 可以更改搜尋快捷鍵
+    10. 暫時關閉再度翻譯視窗內容功能(v1.6第二項)
 
-> **最新版本: v2.0.0-beta**
-
-<br>
-v2.0.0-beta:
-1. 更新了UI的介面
-2. 新增Setting頁面
-3. 可以選擇英-中或者英-英
-4. 可以設定視窗大小
-5. 可以設定字體大小
-6. 可以設定例句間距
-7. 可以自動開機啟動
-8. 可以開啟app即啟動
-9. 可以更改搜尋快捷鍵
-10. 暫時關閉再度翻譯視窗內容功能(v1.6第二項)
-
-v1.6:
-1. 可以整句翻譯了
-2. 可以翻譯小視窗內的內容
+- v1.6:
+    1. 可以整句翻譯了
+    2. 可以翻譯小視窗內的內容
 
 
 <br>
@@ -65,14 +60,14 @@ v1.6:
 
 4. 點選其他資訊
 
-![](https://i.imgur.com/g7AlmoV.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/images/other_information.png)
 
 <br>
 
 
 5. 點選仍要執行
 
-![](https://i.imgur.com/YLudHYQ.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/images/execute.png)
 
 <br>
 
