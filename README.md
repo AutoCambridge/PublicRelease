@@ -41,35 +41,54 @@
 1. 點選右邊Release
     
 
-![](https://i.imgur.com/fYznUCl.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/images/entry.png)
 
 <br>
 
 2. 點選下方Assets內的.exe檔
 
-![](https://i.imgur.com/XW4FHuV.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/images/release.png)
 
 <br>
 
 3. 點選保留
 
-![](https://i.imgur.com/zsoPjKS.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/images/keep.png)
 
 <br>
         
 
-4. 點選其他資訊
+4. 點選顯示更多
 
 ![](https://github.com/AutoCambridge/PublicRelease/blob/images/other_information.png)
 
 <br>
 
 
-5. 點選仍要執行
+5. 點選仍要保留
+
+![](https://github.com/AutoCambridge/PublicRelease/blob/images/keep2.png)
+
+<br>
+
+6. 下載成功!
+
+![](https://github.com/AutoCambridge/PublicRelease/blob/images/done.png)
+
+<br>
+
+7. 點選其他資訊
+
+![](https://github.com/AutoCambridge/PublicRelease/blob/images/other_information.png)
+
+<br>
+
+8. 點選仍要執行
 
 ![](https://github.com/AutoCambridge/PublicRelease/blob/images/execute.png)
 
 <br>
+
 
 使用方法:
 ---
