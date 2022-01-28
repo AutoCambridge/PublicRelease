@@ -42,7 +42,7 @@
     
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/v2.0.0-beta/images/entry.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/v2.0.0-beta/images/execute.png)
 <!-- ![](https://github.com/AutoCambridge/PublicRelease/blob/images/entry.png) -->
 
 </div>
