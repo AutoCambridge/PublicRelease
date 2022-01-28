@@ -42,7 +42,7 @@
     
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/images/entry.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/entry.png)
 
 </div>
 <br>
@@ -51,7 +51,7 @@
 
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/images/release.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/release.png)
 
 </div>
 <br>
@@ -60,7 +60,7 @@
 
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/images/keep.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/keep.png)
 
 </div>
 <br>
@@ -70,7 +70,7 @@
 
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/images/other_information.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/other_information.png)
 
 </div>
 <br>
@@ -80,7 +80,7 @@
 
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/images/keep2.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/keep2.png)
 
 </div>
 <br>
@@ -89,7 +89,7 @@
 
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/images/done.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/done.png)
 
 </div>
 <br>
@@ -98,7 +98,7 @@
 
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/images/other_information.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/other_information.png)
 
 </div>
 <br>
@@ -107,7 +107,7 @@
 
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/images/execute.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/execute.png)
 
 </div>
 <br>
