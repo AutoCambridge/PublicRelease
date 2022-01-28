@@ -40,9 +40,12 @@
 
 1. 點選右邊Release
     
+<div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/v2.0.0-beta/images/other_infomation.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/v2.0.0-beta/images/entry.png)
+<!-- ![](https://github.com/AutoCambridge/PublicRelease/blob/images/entry.png) -->
 
+</div>
 <br>
 
 2. 點選下方Assets內的.exe檔
