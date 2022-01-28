@@ -41,7 +41,7 @@
 1. 點選右邊Release
     
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/images/entry.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/v2.0.0-beta/images/other_infomation.png)
 
 <br>
 
