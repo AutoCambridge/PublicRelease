@@ -70,7 +70,7 @@
 
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/other_information.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/more.png)
 
 </div>
 <br>
@@ -80,7 +80,7 @@
 
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/keep2.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/keep_2.png)
 
 </div>
 <br>
