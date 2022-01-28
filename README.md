@@ -42,54 +42,74 @@
     
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/v2.0.0-beta/images/execute.png)
-<!-- ![](https://github.com/AutoCambridge/PublicRelease/blob/images/entry.png) -->
+![](https://github.com/AutoCambridge/PublicRelease/blob/images/entry.png)
 
 </div>
 <br>
 
 2. 點選下方Assets內的.exe檔
 
+<div align="center"> 
+
 ![](https://github.com/AutoCambridge/PublicRelease/blob/images/release.png)
 
+</div>
 <br>
 
 3. 點選保留
 
+<div align="center"> 
+
 ![](https://github.com/AutoCambridge/PublicRelease/blob/images/keep.png)
 
+</div>
 <br>
         
 
 4. 點選顯示更多
 
+<div align="center"> 
+
 ![](https://github.com/AutoCambridge/PublicRelease/blob/images/other_information.png)
 
+</div>
 <br>
 
 
 5. 點選仍要保留
 
+<div align="center"> 
+
 ![](https://github.com/AutoCambridge/PublicRelease/blob/images/keep2.png)
 
+</div>
 <br>
 
 6. 下載成功!
 
+<div align="center"> 
+
 ![](https://github.com/AutoCambridge/PublicRelease/blob/images/done.png)
 
+</div>
 <br>
 
 7. 點選其他資訊
 
+<div align="center"> 
+
 ![](https://github.com/AutoCambridge/PublicRelease/blob/images/other_information.png)
 
+</div>
 <br>
 
 8. 點選仍要執行
 
+<div align="center"> 
+
 ![](https://github.com/AutoCambridge/PublicRelease/blob/images/execute.png)
 
+</div>
 <br>
 
 
