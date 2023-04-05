@@ -15,6 +15,13 @@
 
 更新內容:
 ---
+- v2.2.0:
+    1. 可以再度翻譯視窗內文字
+    2. 支援MacOS系統了! 但目前只有在M1晶片上測試過，Intel版本並沒有測試過
+    3. 可以選擇以Google翻譯或者劍橋字典作為翻譯引擎
+    4. 可以控制音量
+
+---
 - v2.0.0-beta:
     1. 更新了UI的介面
     2. 新增Setting頁面
@@ -36,78 +43,10 @@
 
 下載方式:
 ---
-<br>
-
-1. 點選右邊Release
     
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/entry.png)
-
-</div>
-<br>
-
-2. 點選下方Assets內的.exe檔
-
-<div align="center"> 
-
-![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/release.png)
-
-</div>
-<br>
-
-3. 點選保留
-
-<div align="center"> 
-
-![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/keep.png)
-
-</div>
-<br>
-        
-
-4. 點選顯示更多
-
-<div align="center"> 
-
-![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/more.png)
-
-</div>
-<br>
-
-
-5. 點選仍要保留
-
-<div align="center"> 
-
-![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/keep_2.png)
-
-</div>
-<br>
-
-6. 下載成功!
-
-<div align="center"> 
-
-![](https://github.com/AutoCambridge/PublicRelease/blob/Version-220/images/done.png)
-
-</div>
-<br>
-
-7. 點選其他資訊
-
-<div align="center"> 
-
-![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/other_information.png)
-
-</div>
-<br>
-
-8. 點選仍要執行
-
-<div align="center"> 
-
-![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/execute.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/download.gif)
 
 </div>
 <br>
@@ -119,38 +58,52 @@
 2. 點選Start
 3. 視窗會自動縮小到右下角工作列內
 4. 反白你想要查詢的字/句子
-5. 按下 "Ctrl + q"，小視窗的內容就是你想要知道的一切了！
+5. 按下搜尋快捷鍵(Windows預設為"Ctrl + q" / MacOS為 "Command + q")，小視窗的內容就是你想要知道的一切了！
 6. 對著視窗按下滑鼠右鍵就可以關掉小視窗
 7. 重複步驟5~6即可重複搜尋
 
+---
+> MacOS M1 要多設定幾個東西才能正常使用AutoCambridge
+1. 系統設定 / System Settings -> 隱私權與安全性 / Privacy & Security -> 輸入監控 / Input Monitoring -> 點選A.C / enable A.C
+2. 系統設定 / System Settings -> 隱私權與安全性 / Privacy & Security -> 輔助使用 / Accessbility -> 點選A.C / enable A.C
+
+<div align="center"> 
+
+![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/Mac_enable_system_settings.gif)
+
+</div>
 
 <br>
 
 其他功能介紹:  
 ---
 > 點選右下角工作列內的小圖示，左鍵兩下可以叫出主視窗，右鍵則是召喚其他功能!
-- About us
+- 首頁 / Main Window
+    - 沒甚麼，就只是呼叫主視窗出來而已
+- 關於我們 / About us
     - 是貼心的官方載點連結
-- Setting
-    - Gui Language
-        - 目前還在搶修中，工程師不好當，過完年再說
-    - Search Language
+- 設定 / Setting
+    - 使用者介面語言 / GUI language
+        - 整個介面的語言
+    - 翻譯語言 / Search language
         - 這裡是選擇字典查詢結果要用中文還是英文顯示的地方
-    - Search Result Window Size
-        - 搜尋結果的視窗大小!
-    - Search Result Font Size
-        - 搜尋結果的字體大小
-    - Search Result Eg Spacing
-        - 字典例句之間的間隔，怕你眼花!
-    - Volume
-        - 先假裝沒看到
-    - Startup
-        - 打勾則會開機啟動，關掉的話重開機你就要自己打開了QQ
-    - Auto Start
-        - 沒甚麼，只是打勾之後開啟App就會自動躲到工作列去了，直接開工，不顯示主視窗!
-    - Hotkey For Search
+    - 要搜尋的字典 / Dictionary to search
+        - 選擇以Google翻譯或者劍橋字典當作主要翻譯引擎
+    - 搜尋快捷鍵 / Hotkey for search
         - 有時候預設快捷鍵會跟其他工具衝突，這邊就是開給你改的!
-- Exit
+    - 搜尋結果視窗大小 / Search result window size
+        - 搜尋結果的視窗大小!
+    - 搜尋結果視窗字體大小 / Search result font size
+        - 搜尋結果的字體大小
+    - 例句間距 / Search result e.g. spacing
+        - 字典例句之間的間隔，怕你眼花!
+    - 音量 / Volume
+        - 可以自行調整範例的音量
+    - 開機啟動 / Start up
+        - 打勾則會開機啟動，關掉的話重開機你就要自己打開了QQ
+    - 不主動顯示主視窗 / Start without the main window
+        - 沒甚麼，只是打勾之後開啟App就會自動躲到工作列去了，直接開工，不顯示主視窗!
+- 結束應用程式 / Exit
     - 按下這個才會真的結束程式哦!
 
 
