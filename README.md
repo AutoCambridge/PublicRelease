@@ -89,7 +89,7 @@
 
 <div align="center"> 
 
-![](https://github.com/AutoCambridge/PublicRelease/blob/master/images/done.png)
+![](https://github.com/AutoCambridge/PublicRelease/blob/Version-220/images/done.png)
 
 </div>
 <br>
@@ -159,7 +159,3 @@
 
 
 ### 恭喜老爺賀喜夫人！你已經逃離瘋狂切換頁面查單字的地獄啦！
-
-
-
-
