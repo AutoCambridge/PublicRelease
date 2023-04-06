@@ -13,7 +13,7 @@
 
 <br>
 
-更新內容:
+## 更新內容:
 ---
 - v2.2.0:
     1. 可以再度翻譯視窗內文字
@@ -41,7 +41,7 @@
 
 <br>
 
-下載方式:
+## 下載方式:
 ---
     
 <div align="center"> 
@@ -52,20 +52,27 @@
 <br>
 
 
-使用方法:
+## 使用方法:
 ---
+> Windows使用者:
 1. 開啟執行檔
 2. 點選Start
 3. 視窗會自動縮小到右下角工作列內
 4. 反白你想要查詢的字/句子
-5. 按下搜尋快捷鍵(Windows預設為"Ctrl + q" / MacOS為 "Command + q")，小視窗的內容就是你想要知道的一切了！
-6. 對著視窗按下滑鼠右鍵就可以關掉小視窗
+5. 按下搜尋快捷鍵(Windows預設為"Ctrl + q")，小視窗的內容就是你想要知道的一切了！
+6. 按下Esc或者對著視窗按下滑鼠右鍵就可以關掉小視窗
 7. 重複步驟5~6即可重複搜尋
 
 ---
-> MacOS M1 要多設定幾個東西才能正常使用AutoCambridge
+> MacOS使用者:
+0. 下載zip檔並且解壓縮
 1. 系統設定 / System Settings -> 隱私權與安全性 / Privacy & Security -> 輸入監控 / Input Monitoring -> 點選A.C / enable A.C
 2. 系統設定 / System Settings -> 隱私權與安全性 / Privacy & Security -> 輔助使用 / Accessbility -> 點選A.C / enable A.C
+3. 點選Start
+4. 反白你想要查詢的字/句子
+5. 按下搜尋快捷鍵(MacOS預設為"Control + q")，小視窗的內容就是你想要知道的一切了！
+6. 按下Esc或者對著視窗按下滑鼠右鍵或者就可以關掉小視窗
+7. 重複步驟4~5即可重複搜尋
 
 <div align="center"> 
 
